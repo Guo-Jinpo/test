@@ -1,0 +1,25 @@
+8 years + architecture, development experience, leading the team to use the latest technology to solve various business scenarios.
+Front-end: From using Angular2 to Angular10, familiar with HTML5, SASS, SCSS, CSS, JavaScript,  Angular+ PWA,  understanding NGRX, Material, Bootstrap, Echarts and other technologies.
+Back-end : Java (SSH, spring boot), Node.js , TypeScript (express, Nest.js), .Net/C# (MVC, WCF, AutoFac, AutoMapper, EF), Swagger, PHP, Golang, Python, etc. 
+Data Storage (SQL Server, MySQL, Oracle, Redis, etc.)
+OS (Windows Server, Linux, docker)
+Cloud : AWS, Azure, GCP. 
+ Accenture certified architect
+Certificated AWS solution architecture professional 
+Certificated Kubernetes administrator
+Certificated fabric administrator and corda developer
+
+Role: ArchitectIndustry: ITProject: Procurement Management System (Blockchain project)Responsibility: 
+· Architecting & Designing feasibility analysis for both backend and frontend, includes Redis, message queue, restful design and web framework etc. 
+· Architecting for Block chain and implementing them.
+· Implement backend service(Java, Kotlin, NodeJS). 
+· User authentication & authorization(ACL). 
+·  Trouble shooting and technology support. 
+·  Enhance the code quantity. 
+·  Training the new technology for team
+Role: ArchitectIndustry: ITProject: Contract Management SystemResponsibility: 
+·  Architecting & Designing feasibility analysis for blockchain, backend, frontend with AWS cloud; 
+· Provide high availability architecture design with AWS cloud services, Co-work with foreign member in HA architecture implement , etc.
+·	 Organize the design document review and code review ; Enhance the code quantity ; Application deploy ;Training the new technology for team
+
+
