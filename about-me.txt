@@ -21,5 +21,65 @@ Role: ArchitectIndustry: ITProject: Contract Management SystemResponsibility:
 ·  Architecting & Designing feasibility analysis for blockchain, backend, frontend with AWS cloud; 
 · Provide high availability architecture design with AWS cloud services, Co-work with foreign member in HA architecture implement , etc.
 ·	 Organize the design document review and code review ; Enhance the code quantity ; Application deploy ;Training the new technology for team
+d
+
+Architecting & Designing feasibility analysis for blockchain, backend, frontend with cloud .
 
 
+Jinpo is the TA in Blockchain. He has extensive experience with blockchain and deliver complex programs. Jinpo is certified fabric administrator and corda developer.  
+Jinpo’s work includes optimized technology architecture, enhanced deliver management, and improving time to market thru agile business & technology solutions.
+Jinpo has Master’s Degree in Electrical & Computer Engineering.
+
+
+Certificated fabric administrator
+Certificated corda developer
+Certificated AWS solution architecture professional 
+Certificated Kubernetes administrator
+
+Over thirteen years of information technology experience that includes:
+Working in Accenture to design blockchain project as a blockchain architect, cloud solution architect. 
+Responsibilities:
+·	Design and implement architecture to support business to support Flexibility, stability, security architecture 
+·	Application layer architecture design
+·	Runtime architecture design and implementation
+
+Working in Lanwatcher as a architect to support application development and deployment, includes scalable and high performance backend design and implement, frontend prototype, web framework building etc.
+
+Working in Aspect as a .Net architect. By using WCF to build service architecture about SOA. Also give some main points with UI with WPF and Windows Form.
+
+Full stack developer, expert with .Net, NodeJS tech stack, known python, golang, java tech stack. Expert with Angular, known with Vue, React
+
+As a result of professional experience of about 15 years in developing application software, I have gained an intuitive sense and comprehensive knowledge of how to design and manage the information systems and how to provide code, package and trouble shoot for the software systems effectively. I could be able to  pick up and integrate new technologies quickly, a mature, consistent and methodological approach characterizes my work. 
+
+
+
+Guo Jinpo has total around 9 years’ working experiences.  He recently is working on blockchain projects for Procurement Industry and  blockchain projects for travel Industry
+Involved in the technical field:
+.NET/C# ; JAVA ; Nodejs ; Go ; type Script
+Font-end : Angular 2+ ; html5 ; java Script ;CSS (sass less )  …
+DB: SQL server , my SQL , oracle , CouchDB ,  MongoDB
+blockchain : Hyperledger Fabric ; Corda
+
+
+前端技术方面， 8 年+前端架构，开发经验，带领团队利用最新技术解决业务快速发展过程中的各种业务场景问题。从使
+用 Angular2 一直到现在 Angular10，熟悉 HTML5、SASS、 SCSS、CSS、JavaScript 等通用前端技术，熟悉
+Angular+ PWA, 打造渐进式终端应用，熟悉 Angular+Ionic 打造原生 APP, 了解 Ngrx, Material, Bootstrap, Echarts,
+Vue 等技术。
+ 后端技术方面， Java(SSH , spring boot ), Node.js TypeScript (express, Nest.js) , .net/C# (MVC, WCF, AutoFac,
+AutoMapper, EF) , Swagger, PHP, Golang, 了解 python 等技术。
+ 数据库方面， SQL server, my SQL, oracle, mongo DB, AWS DynamoDB 等技术。
+ AWS 方面, 已获取 AWS Certified Solutions Architect Professional 证书, 项目常用服务：EC2 , AWS Elastic Load
+Balancing, AWS SNS , AWS Lambda （serverless）, AWS SQS, AWS CDN, AWS API Gateway, AWS S3 , AWS
+RDS。
+ 容器方面：VM-ubuntu/centOS/red hat , Kubernetes(K8s), docker , docker swarm, docker stack, docker
+compose ,etc
+ DevOps: Kubernetes (已获得 Certified Kubernetes Administrator 证书) , Azure DevOps, Octpus ,
+k8s+Jenkins+helm, AWS CloudFormation, AWS Beanstalk, AWS Commit, AWS Code Pipeline, AWS Code
+Deploy
+ 区块链方面：Hyper Ledger Fabric（获取 certificated Hyperledger Fabric Administrator 证书），R3 Corda (有 R3
+Corda 证书)。
+ 其他方面，Azure(曾参加 Azure 专业培训), 微信公众平台，企业号，小程序开发，熟悉 Redis、服务器相关技术。
+ 从事架构师 6+年，接受过 Accenture 架构师专业培训, 是埃森哲认证的 TA
+ 从事敏捷项目 4+年，有 CSM 证书。
+ 有快速学习和解决复杂问题的能力，做事精密思维，有良好的沟通能力和抗压能力，执行力强。具有前瞻思维，喜欢学
+习新的技术。爱好生活，对待生活积极乐观。
