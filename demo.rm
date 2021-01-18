@@ -1,0 +1,42 @@
+hello everyone , can you hear me , okay cool！ in the past week, we mainly focus on new desings. 
+ let me introduce myself  briefly， this is edward form RO work stream,  I Joined our company last month.  and I am very happy to work with you. and thank you very much for your help in this month, I hope I can make a greater contribution to the project. I will be do my best to support work stream.  share my knowledge with team and learn form other team members .
+let me share my screen firstly , 
+I will share featues that we have developed  from last week( in the past week ). For Now, because we mainly focus on the new designs ,So let me share featues of new designs firstly.
+for ro , fistly we 'd like to introduce some features about new designs .
+has my screen ? 
+the first part is change window 
+if we inside the installation window ,it will display other color .
+currently it shows the colose , the next installation window  will be opened  , the time is here .
+the second part is the header which includes some information summary 
+as you can see , we put some information  and two buttions in here .   the clone request and the cancel plan .  for the old designs , many informtions is Displayed  on each page of the process ,We can't find them very easier. for now ,we put some important information together here , very easy to find and do some actions . last week , many information was mocked ,  for now , it is not mocked ,it is real data relate the planit ,  Every hyperlink is clickable , if we click on that , it will redirect and open new window . . ... still working on it .
+
+the third part is process tracker and it is also  a function as  the navigation bar .
+this is almost done ,   as you can see ,
+If we click on this  release readiness  step, this step, that's the activated state , for the activated state :It represents our current page. we will hightlight the color and bold the font ,  add dotted border and add the down arrow .  
+Red wrong icon  (blue, green)
+There are four types of states for each step, including not complete, executing, there is some error, and complete , let us go through one by one .
+For unfinished steps, we show gray circles icon ,like this ,and gray lines
+For the steps already done and it has not any errors, we show a green check icon , like this, and green line , like this 
+For the steps that have errors, we show a Red Cross icon , like this , and the  blue line and gray line ,Indicates that this step is not completed
+For the steps being run, we now have dynamic ICONS , If the run is complete, it will enter the corresponding state,  At this time, we can go to any other page, if our installation step is complete, we will update the status and update the corresponding icon to the step. you can easy to see , it has some errors or  it  complete. 
+
+If we've done all of our steps, we'll see all the green ICONS and lines, like this .
+
+
+the Layout in this section under the navigation bar
+The first is about our title, which was shown under the  recent deployments , and by design, we now place it above the detail button, 
+As for the following progress tracking navigation bar, the layout has some problems,  we have adjusted it  so that it displays the same as our design
+
+it is all about new designs , any comments or sugesstion for this one 
+okay ,let 's move to next one,  we finished issues or story during past week .
+
+
+
+
+for the UI display  ,is very simplble ,but the back end chages  more complexed 
+that's all we have done for the dalian workstram 
+next steps ,we will continue  to focus on the new designs and fixed some urage issue or story  .
+no more for ro team ,that 's all i'd like to share with you  guys , any comments for us .
+what we did , what we will do .
+
+why we need learn eec?
